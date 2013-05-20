@@ -1,0 +1,18 @@
+{
+  "name": "DocpadTemplate",
+  "version": "0.0.0",
+  "description": "ERROR: No README.md file found!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "",
+  "license": "BSD",
+  "devDependencies": {
+    "docpad": "~6.34.2",
+    "docpad-plugin-livereload": "~2.4.0",
+    "docpad-plugin-eco": "~2.0.2",
+    "docpad-plugin-partials": "~2.6.2"
+  }
+}
